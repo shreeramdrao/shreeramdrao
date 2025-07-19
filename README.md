@@ -1,6 +1,6 @@
 # 👋 Hello, World! I'm Shreerama D S 🌟
 
-### 🌟 **Final-Year AI Student | Innovating with Code | Aspiring AI/ML Trailblazer**
+### 🌟 ** Recent BTech Graduate Guy | Innovating with Code | Aspiring AI/ML Trailblazer**
 
 ---
 
