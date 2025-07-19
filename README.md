@@ -1,6 +1,6 @@
 # 👋 Hello, World! I'm Shreerama D S 🌟
 
-### 🌟 ** Recent BTech Graduate Guy | Innovating with Code | Aspiring AI/ML Trailblazer**
+### 🌟 Recent BTech Graduated Guy | Innovating with Code | Aspiring AI/ML Trailblazer
 
 ---
 
@@ -53,7 +53,7 @@
 - [GitHub Portfolio](https://github.com/shreeramdrao)   
 
 📄 **Know about my experiences**  
-- [Resume]([https://github.com/shreeramdrao/resume](https://drive.google.com/file/d/1H9hRb1Ky3JA_IeOgBswbgYdG6EDShIqM/view?usp=sharing))  
+- [Resume](https://drive.google.com/file/d/1ZeiKzLgHoU-8lNAfkkCK9m64hwZsMHKx/view?usp=sharing)  
 
 ⚡ **Fun fact**  
 - I believe AI is the future, and I’m working hard to be a part of it!  
