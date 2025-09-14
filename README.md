@@ -53,7 +53,7 @@
 - [GitHub Portfolio](https://github.com/shreeramdrao)   
 
 📄 **Know about my experiences**  
-- [Resume](https://drive.google.com/file/d/1ZeiKzLgHoU-8lNAfkkCK9m64hwZsMHKx/view?usp=sharing)  
+- [Resume](https://drive.google.com/file/d/1ah4W1NKYXUzqPVJqPQPlWVa7bvC25dn6/view?usp=sharing)  
 
 ⚡ **Fun fact**  
 - I believe AI is the future, and I’m working hard to be a part of it!  
